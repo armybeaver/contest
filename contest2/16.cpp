@@ -15,6 +15,6 @@ int main (){
             break;
         }
     }
-    cout<< dem;
+    cout<<dem;
     return 0;
 }
