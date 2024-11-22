@@ -49,7 +49,7 @@ int main(){
     for (int i = 0; i<n;i++){
         if (i == 0||i==(n-1)){
             for (int o= 0; o<n;o++){
-                cout<<i+1<<"  ";
+                cout<<i+1<<" ";
             }
         }
         else{
