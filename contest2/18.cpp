@@ -21,7 +21,7 @@ int main(){
     cout<<endl;
     for (int i = 1; i<=n;i++){
         for (int o = i; o<n+i;o++){
-            if (o>=n) cout<<"*";
+            if (o>=n) cout<<"* ";
             else cout<<" ";
         }
         cout<<endl;
