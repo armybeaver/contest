@@ -14,7 +14,7 @@ int main(){
     cout<<endl;
     for (int i = 1;i<=n;i++){
         for (int o = n;o>=i;o--){
-            cout<<"*";
+            cout<<"* ";
         }
         cout<<endl;
     }
