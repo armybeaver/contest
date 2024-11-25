@@ -12,6 +12,6 @@ int tinhtong(int a, int b){
 
 int main(){
     int a , b;cin >>a>>b;
-    cout<<tinhtong(a,b);
+    cout<<tinhtong(a,b);';'
     return 0;
 }
